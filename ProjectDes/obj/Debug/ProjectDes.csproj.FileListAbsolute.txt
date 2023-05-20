@@ -1,0 +1,16 @@
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\bin\Debug\ProjectDes.exe.config
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\bin\Debug\ProjectDes.exe
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\bin\Debug\ProjectDes.pdb
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.csproj.AssemblyReference.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.csproj.SuggestedBindingRedirects.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.Form1.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.Properties.Resources.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.csproj.GenerateResource.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.csproj.CoreCompileInputs.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.exe
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.pdb
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.Formttsv.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.Formtrangchu.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.FormKqhoctap.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.Formnganh_chuyennganh.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\ProjectDes\ProjectDes\obj\Debug\ProjectDes.FormCapnhatTTSV.resources
